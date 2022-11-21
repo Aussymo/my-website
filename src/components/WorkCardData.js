@@ -1,5 +1,5 @@
 import natty from '../assets/NATTY.png'
-// import washius from '../assets/washius.png'
+import otis from '../assets/otis.jpg'
 import crud from '../assets/crud.png'
 
 const ProjectCardData = [
@@ -10,13 +10,13 @@ const ProjectCardData = [
         view: 'https://www.nattyecommerce.com',
         source: 'https://github.com/Aussymo/natty_ecommerce'
     },
-    // {
-    //     imgsrc: washius,
-    //     title: "",
-    //     text: "Ecommerce workout site that privides a range of products for your working out Stack",
-    //     view: 'https://www.nattyecommerce.com',
-    //     source: 'https://github.com/Aussymo/natty_ecommerce'
-    // },
+    {
+        imgsrc: otis,
+        title: "Otis Construction",
+        text: "Full Home Renovation website for Otis Construction",
+        view: 'https://otis-pi.vercel.app/',
+        source: 'https://github.com/Aussymo/Otis'
+    },
     {
         imgsrc: crud,
         title: "CRUD Employee Using Node",
