@@ -11,19 +11,19 @@ const ProjectCardData = [
         source: 'https://github.com/Aussymo/natty_ecommerce'
     },
     {
+        imgsrc: crud,
+        title: "CRUD Employee Using Node",
+        text: "Create, Read, Update, and Delete employees",
+        view: 'https://application-crud-2022.netlify.app/',
+        source: 'https://github.com/Aussymo/Application'
+    },
+    {
         imgsrc: otis,
         title: "Otis Construction",
         text: "Full Home Renovation website for Otis Construction",
         view: 'https://otis-pi.vercel.app/',
         source: 'https://github.com/Aussymo/Otis'
     },
-    {
-        imgsrc: crud,
-        title: "CRUD Employee Using Node",
-        text: "Create, Read, Update, and Delete employees",
-        view: 'https://application-crud-2022.netlify.app/',
-        source: 'https://github.com/Aussymo/Application'
-    }
 ]
 
 export default ProjectCardData
