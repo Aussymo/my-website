@@ -1,5 +1,5 @@
 import natty from '../assets/NATTY.png'
-import otis from '../assets/otis.jpg'
+import otis from '../assets/otis.png'
 import crud from '../assets/crud.png'
 
 const ProjectCardData = [
